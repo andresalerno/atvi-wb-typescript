@@ -2,6 +2,7 @@ import Entrada from "../io/entrada";
 import Cliente from "../modelo/cliente";
 import CPF from "../modelo/cpf";
 import Cadastro from "./cadastro";
+import Genero from "../modelo/genero";
 
 export default class CadastroCliente extends Cadastro {
     private clientes: Array<Cliente>
@@ -15,7 +16,8 @@ export default class CadastroCliente extends Cadastro {
         console.log(`\nInício do cadastro do cliente`);
         let nome = this.entrada.receberTexto(`Por favor informe o nome do cliente: `)
         let nomeSocial = this.entrada.receberTexto(`Por favor informe o nome social do cliente: `)
-        let valor = this.entrada.receberTexto(`Por favor informe o número do cpf: `);
+        let sexo = this.entrada.receberTexto(`Por favor informe o gênero: M - Masculino  F - Feminino  O - Outro  ND - Não quero declarar: `)
+        let valor = this.entrada.receberTexto(`Por favor informe o número do cpf: `)
         let data = this.entrada.receberTexto(`Por favor informe a data de emissão do cpf, no padrão dd/mm/yyyy: `);
         let partesData = data.split('/')
         let ano = new Number(partesData[2].valueOf()).valueOf()
@@ -23,7 +25,8 @@ export default class CadastroCliente extends Cadastro {
         let dia = new Number(partesData[0].valueOf()).valueOf()
         let dataEmissao = new Date(ano, mes, dia)
         let cpf = new CPF(valor, dataEmissao);
-        let cliente = new Cliente(nome, nomeSocial, cpf);
+        let genero = new Genero(sexo)
+        let cliente = new Cliente(nome, nomeSocial, genero, cpf);
         this.clientes.push(cliente)
         console.log(`\nCadastro concluído :)\n`);
     }
