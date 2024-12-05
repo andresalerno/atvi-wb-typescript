@@ -61,6 +61,13 @@ Menu Principal
 3. As listagens oferecem relatórios organizados para tomada de decisão.
 4. Utilize as opções de edição e exclusão com cuidado, pois impactam os registros existentes.
 
+Primeiro passa e dar o seguinte comando onde estiver o arquivo package.json
+
+```bash
+./npm install
+```
+
+
 Para a execução do sistema, deve-se digitar no terminal:
 
 ```bash
