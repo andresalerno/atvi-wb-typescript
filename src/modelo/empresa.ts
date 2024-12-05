@@ -1,23 +1,38 @@
-import Cliente from "./cliente"
-import Produto from "./produto"
-import Servico from "./servico"
+import Cliente from "./cliente";
+import Compra from "./compra";
+import Produto from "./produto";
+import Servico from "./servico";
 
-export default class Empresa{
-    private clientes: Array<Cliente>
-    private produtos: Array<Produto>
-    private servicos: Array<Servico>
-    constructor(){
-        this.clientes = []
-        this.produtos = []
-        this.servicos = []
+export default class Empresa {
+    private clientes: Cliente[];
+    private produtos: Produto[];
+    private servicos: Servico[];
+    private compras: Compra[];
+
+    constructor() {
+        this.clientes = [];
+        this.produtos = [];
+        this.servicos = [];
+        this.compras = [];
     }
-    public get getClientes(){
-        return this.clientes
+
+    public getClientes(): Cliente[] {
+        return this.clientes;
     }
-    public get getProdutos(){
-        return this.produtos
+
+    public getProdutos(): Produto[] {
+        return this.produtos;
     }
-    public get getServicos(){
-        return this.servicos
+
+    public getServicos(): Servico[] {
+        return this.servicos;
+    }
+
+    public getCompras(): Compra[] { // Retorna todas as compras
+        return this.compras;
+    }
+
+    public adicionarCompra(compra: Compra): void {
+        this.compras.push(compra);
     }
 }

@@ -1,0 +1,1633 @@
+[
+    {
+        "id": 1,
+        "clienteId": 23,
+        "dataEvento": "2024-03-18T00:00:00Z",
+        "produtos": [
+            {
+                "id": 10,
+                "quantidade": 2,
+                "subtotal": 487.17
+            },
+            {
+                "id": 36,
+                "quantidade": 1,
+                "subtotal": 421.55
+            },
+            {
+                "id": 7,
+                "quantidade": 4,
+                "subtotal": 50.09
+            }
+        ],
+        "servicos": [
+            {
+                "id": 40,
+                "quantidade": 1,
+                "subtotal": 331.63
+            },
+            {
+                "id": 39,
+                "quantidade": 1,
+                "subtotal": 730.04
+            },
+            {
+                "id": 23,
+                "quantidade": 4,
+                "subtotal": 443.77
+            }
+        ],
+        "totalGeral": 2464.25
+    },
+    {
+        "id": 2,
+        "clienteId": 47,
+        "dataEvento": "2024-11-28T00:00:00Z",
+        "produtos": [
+            {
+                "id": 9,
+                "quantidade": 5,
+                "subtotal": 41.76
+            },
+            {
+                "id": 44,
+                "quantidade": 5,
+                "subtotal": 94.23
+            }
+        ],
+        "servicos": [
+            {
+                "id": 9,
+                "quantidade": 5,
+                "subtotal": 404.28
+            },
+            {
+                "id": 32,
+                "quantidade": 1,
+                "subtotal": 733.18
+            }
+        ],
+        "totalGeral": 1273.45
+    },
+    {
+        "id": 3,
+        "clienteId": 46,
+        "dataEvento": "2024-12-06T00:00:00Z",
+        "produtos": [
+            {
+                "id": 16,
+                "quantidade": 1,
+                "subtotal": 133.18
+            },
+            {
+                "id": 46,
+                "quantidade": 2,
+                "subtotal": 316.46
+            },
+            {
+                "id": 23,
+                "quantidade": 5,
+                "subtotal": 129.06
+            }
+        ],
+        "servicos": [
+            {
+                "id": 29,
+                "quantidade": 5,
+                "subtotal": 582.58
+            },
+            {
+                "id": 2,
+                "quantidade": 1,
+                "subtotal": 123.73
+            }
+        ],
+        "totalGeral": 1285.01
+    },
+    {
+        "id": 4,
+        "clienteId": 14,
+        "dataEvento": "2024-10-02T00:00:00Z",
+        "produtos": [
+            {
+                "id": 20,
+                "quantidade": 5,
+                "subtotal": 37.43
+            }
+        ],
+        "servicos": [
+            {
+                "id": 25,
+                "quantidade": 5,
+                "subtotal": 882.88
+            }
+        ],
+        "totalGeral": 920.31
+    },
+    {
+        "id": 5,
+        "clienteId": 1,
+        "dataEvento": "2024-06-21T00:00:00Z",
+        "produtos": [
+            {
+                "id": 8,
+                "quantidade": 2,
+                "subtotal": 434.14
+            },
+            {
+                "id": 32,
+                "quantidade": 1,
+                "subtotal": 67.79
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 501.93
+    },
+    {
+        "id": 6,
+        "clienteId": 1,
+        "dataEvento": "2024-05-23T00:00:00Z",
+        "produtos": [
+            {
+                "id": 12,
+                "quantidade": 1,
+                "subtotal": 121.09
+            },
+            {
+                "id": 15,
+                "quantidade": 2,
+                "subtotal": 343.55
+            },
+            {
+                "id": 1,
+                "quantidade": 4,
+                "subtotal": 356.27
+            },
+            {
+                "id": 29,
+                "quantidade": 5,
+                "subtotal": 458.27
+            },
+            {
+                "id": 47,
+                "quantidade": 2,
+                "subtotal": 310.13
+            }
+        ],
+        "servicos": [
+            {
+                "id": 19,
+                "quantidade": 5,
+                "subtotal": 823.93
+            },
+            {
+                "id": 9,
+                "quantidade": 3,
+                "subtotal": 664.95
+            }
+        ],
+        "totalGeral": 3078.19
+    },
+    {
+        "id": 7,
+        "clienteId": 36,
+        "dataEvento": "2024-12-28T00:00:00Z",
+        "produtos": [
+            {
+                "id": 39,
+                "quantidade": 1,
+                "subtotal": 242.87
+            }
+        ],
+        "servicos": [
+            {
+                "id": 40,
+                "quantidade": 2,
+                "subtotal": 708.66
+            },
+            {
+                "id": 22,
+                "quantidade": 5,
+                "subtotal": 966.01
+            },
+            {
+                "id": 11,
+                "quantidade": 3,
+                "subtotal": 560.92
+            }
+        ],
+        "totalGeral": 2478.46
+    },
+    {
+        "id": 8,
+        "clienteId": 48,
+        "dataEvento": "2024-07-20T00:00:00Z",
+        "produtos": [
+            {
+                "id": 14,
+                "quantidade": 1,
+                "subtotal": 380.93
+            },
+            {
+                "id": 26,
+                "quantidade": 5,
+                "subtotal": 266.75
+            },
+            {
+                "id": 31,
+                "quantidade": 4,
+                "subtotal": 81.07
+            },
+            {
+                "id": 46,
+                "quantidade": 1,
+                "subtotal": 15.39
+            },
+            {
+                "id": 14,
+                "quantidade": 1,
+                "subtotal": 349.56
+            }
+        ],
+        "servicos": [
+            {
+                "id": 27,
+                "quantidade": 4,
+                "subtotal": 868.55
+            }
+        ],
+        "totalGeral": 1962.25
+    },
+    {
+        "id": 9,
+        "clienteId": 36,
+        "dataEvento": "2024-09-26T00:00:00Z",
+        "produtos": [
+            {
+                "id": 19,
+                "quantidade": 1,
+                "subtotal": 207.01
+            },
+            {
+                "id": 24,
+                "quantidade": 5,
+                "subtotal": 359.57
+            },
+            {
+                "id": 16,
+                "quantidade": 2,
+                "subtotal": 147.96
+            }
+        ],
+        "servicos": [
+            {
+                "id": 43,
+                "quantidade": 3,
+                "subtotal": 368.75
+            },
+            {
+                "id": 21,
+                "quantidade": 3,
+                "subtotal": 523.66
+            },
+            {
+                "id": 40,
+                "quantidade": 2,
+                "subtotal": 82.11
+            }
+        ],
+        "totalGeral": 1689.06
+    },
+    {
+        "id": 10,
+        "clienteId": 39,
+        "dataEvento": "2024-04-01T00:00:00Z",
+        "produtos": [
+            {
+                "id": 33,
+                "quantidade": 3,
+                "subtotal": 110.21
+            }
+        ],
+        "servicos": [
+            {
+                "id": 4,
+                "quantidade": 5,
+                "subtotal": 835.88
+            },
+            {
+                "id": 19,
+                "quantidade": 2,
+                "subtotal": 393.35
+            },
+            {
+                "id": 50,
+                "quantidade": 5,
+                "subtotal": 254.17
+            }
+        ],
+        "totalGeral": 1593.61
+    },
+    {
+        "id": 11,
+        "clienteId": 16,
+        "dataEvento": "2024-01-07T00:00:00Z",
+        "produtos": [
+            {
+                "id": 8,
+                "quantidade": 2,
+                "subtotal": 132.3
+            }
+        ],
+        "servicos": [
+            {
+                "id": 15,
+                "quantidade": 2,
+                "subtotal": 394.88
+            },
+            {
+                "id": 22,
+                "quantidade": 1,
+                "subtotal": 569.55
+            }
+        ],
+        "totalGeral": 1096.73
+    },
+    {
+        "id": 12,
+        "clienteId": 44,
+        "dataEvento": "2024-11-12T00:00:00Z",
+        "produtos": [
+            {
+                "id": 46,
+                "quantidade": 4,
+                "subtotal": 443.48
+            },
+            {
+                "id": 49,
+                "quantidade": 3,
+                "subtotal": 446.39
+            },
+            {
+                "id": 41,
+                "quantidade": 3,
+                "subtotal": 409.67
+            },
+            {
+                "id": 38,
+                "quantidade": 3,
+                "subtotal": 92.55
+            }
+        ],
+        "servicos": [
+            {
+                "id": 1,
+                "quantidade": 3,
+                "subtotal": 791.49
+            },
+            {
+                "id": 31,
+                "quantidade": 1,
+                "subtotal": 337.99
+            },
+            {
+                "id": 40,
+                "quantidade": 4,
+                "subtotal": 697.26
+            }
+        ],
+        "totalGeral": 3218.83
+    },
+    {
+        "id": 13,
+        "clienteId": 48,
+        "dataEvento": "2024-05-18T00:00:00Z",
+        "produtos": [
+            {
+                "id": 46,
+                "quantidade": 4,
+                "subtotal": 375.79
+            },
+            {
+                "id": 49,
+                "quantidade": 4,
+                "subtotal": 187.46
+            },
+            {
+                "id": 42,
+                "quantidade": 1,
+                "subtotal": 323.84
+            },
+            {
+                "id": 50,
+                "quantidade": 5,
+                "subtotal": 328.03
+            }
+        ],
+        "servicos": [
+            {
+                "id": 43,
+                "quantidade": 1,
+                "subtotal": 299.7
+            },
+            {
+                "id": 24,
+                "quantidade": 5,
+                "subtotal": 619.4
+            },
+            {
+                "id": 26,
+                "quantidade": 5,
+                "subtotal": 318.69
+            }
+        ],
+        "totalGeral": 2452.91
+    },
+    {
+        "id": 14,
+        "clienteId": 50,
+        "dataEvento": "2024-02-12T00:00:00Z",
+        "produtos": [
+            {
+                "id": 21,
+                "quantidade": 1,
+                "subtotal": 183.16
+            },
+            {
+                "id": 6,
+                "quantidade": 2,
+                "subtotal": 255.89
+            },
+            {
+                "id": 48,
+                "quantidade": 4,
+                "subtotal": 97.64
+            },
+            {
+                "id": 18,
+                "quantidade": 2,
+                "subtotal": 449.15
+            },
+            {
+                "id": 37,
+                "quantidade": 5,
+                "subtotal": 352.07
+            }
+        ],
+        "servicos": [
+            {
+                "id": 34,
+                "quantidade": 5,
+                "subtotal": 489.23
+            },
+            {
+                "id": 46,
+                "quantidade": 5,
+                "subtotal": 713.72
+            },
+            {
+                "id": 39,
+                "quantidade": 3,
+                "subtotal": 757.82
+            }
+        ],
+        "totalGeral": 3298.68
+    },
+    {
+        "id": 15,
+        "clienteId": 6,
+        "dataEvento": "2024-05-03T00:00:00Z",
+        "produtos": [
+            {
+                "id": 11,
+                "quantidade": 2,
+                "subtotal": 185.55
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 185.55
+    },
+    {
+        "id": 16,
+        "clienteId": 24,
+        "dataEvento": "2024-08-12T00:00:00Z",
+        "produtos": [
+            {
+                "id": 29,
+                "quantidade": 3,
+                "subtotal": 459.2
+            },
+            {
+                "id": 1,
+                "quantidade": 4,
+                "subtotal": 69.86
+            },
+            {
+                "id": 22,
+                "quantidade": 4,
+                "subtotal": 67.07
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 596.13
+    },
+    {
+        "id": 17,
+        "clienteId": 7,
+        "dataEvento": "2024-06-01T00:00:00Z",
+        "produtos": [
+            {
+                "id": 3,
+                "quantidade": 2,
+                "subtotal": 181.02
+            },
+            {
+                "id": 30,
+                "quantidade": 3,
+                "subtotal": 54.47
+            },
+            {
+                "id": 1,
+                "quantidade": 4,
+                "subtotal": 172.25
+            }
+        ],
+        "servicos": [
+            {
+                "id": 10,
+                "quantidade": 4,
+                "subtotal": 959.23
+            },
+            {
+                "id": 6,
+                "quantidade": 2,
+                "subtotal": 738.95
+            },
+            {
+                "id": 48,
+                "quantidade": 3,
+                "subtotal": 785.8
+            }
+        ],
+        "totalGeral": 2891.72
+    },
+    {
+        "id": 18,
+        "clienteId": 28,
+        "dataEvento": "2024-10-24T00:00:00Z",
+        "produtos": [
+            {
+                "id": 22,
+                "quantidade": 3,
+                "subtotal": 478.82
+            },
+            {
+                "id": 29,
+                "quantidade": 3,
+                "subtotal": 131.99
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 610.81
+    },
+    {
+        "id": 19,
+        "clienteId": 26,
+        "dataEvento": "2024-08-04T00:00:00Z",
+        "produtos": [
+            {
+                "id": 39,
+                "quantidade": 2,
+                "subtotal": 195.85
+            },
+            {
+                "id": 29,
+                "quantidade": 2,
+                "subtotal": 353.14
+            },
+            {
+                "id": 14,
+                "quantidade": 2,
+                "subtotal": 311.95
+            },
+            {
+                "id": 33,
+                "quantidade": 2,
+                "subtotal": 467.76
+            },
+            {
+                "id": 9,
+                "quantidade": 5,
+                "subtotal": 371.3
+            }
+        ],
+        "servicos": [
+            {
+                "id": 24,
+                "quantidade": 5,
+                "subtotal": 104.21
+            },
+            {
+                "id": 33,
+                "quantidade": 2,
+                "subtotal": 590.62
+            }
+        ],
+        "totalGeral": 2394.83
+    },
+    {
+        "id": 20,
+        "clienteId": 21,
+        "dataEvento": "2024-04-25T00:00:00Z",
+        "produtos": [
+            {
+                "id": 27,
+                "quantidade": 2,
+                "subtotal": 20.37
+            },
+            {
+                "id": 29,
+                "quantidade": 5,
+                "subtotal": 103.55
+            },
+            {
+                "id": 22,
+                "quantidade": 5,
+                "subtotal": 234.49
+            },
+            {
+                "id": 46,
+                "quantidade": 5,
+                "subtotal": 361.19
+            }
+        ],
+        "servicos": [
+            {
+                "id": 11,
+                "quantidade": 1,
+                "subtotal": 752.76
+            },
+            {
+                "id": 46,
+                "quantidade": 1,
+                "subtotal": 80.06
+            }
+        ],
+        "totalGeral": 1552.42
+    },
+    {
+        "id": 21,
+        "clienteId": 5,
+        "dataEvento": "2024-12-20T00:00:00Z",
+        "produtos": [
+            {
+                "id": 15,
+                "quantidade": 2,
+                "subtotal": 159.96
+            },
+            {
+                "id": 7,
+                "quantidade": 2,
+                "subtotal": 299.09
+            },
+            {
+                "id": 38,
+                "quantidade": 3,
+                "subtotal": 248.15
+            },
+            {
+                "id": 11,
+                "quantidade": 3,
+                "subtotal": 297.09
+            },
+            {
+                "id": 11,
+                "quantidade": 1,
+                "subtotal": 320.68
+            }
+        ],
+        "servicos": [
+            {
+                "id": 18,
+                "quantidade": 2,
+                "subtotal": 237.22
+            },
+            {
+                "id": 36,
+                "quantidade": 4,
+                "subtotal": 910.38
+            }
+        ],
+        "totalGeral": 2472.57
+    },
+    {
+        "id": 22,
+        "clienteId": 29,
+        "dataEvento": "2024-08-20T00:00:00Z",
+        "produtos": [
+            {
+                "id": 48,
+                "quantidade": 2,
+                "subtotal": 57.7
+            },
+            {
+                "id": 13,
+                "quantidade": 3,
+                "subtotal": 326.76
+            },
+            {
+                "id": 39,
+                "quantidade": 4,
+                "subtotal": 430.71
+            },
+            {
+                "id": 18,
+                "quantidade": 1,
+                "subtotal": 340.63
+            },
+            {
+                "id": 5,
+                "quantidade": 5,
+                "subtotal": 304.24
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 1460.04
+    },
+    {
+        "id": 23,
+        "clienteId": 18,
+        "dataEvento": "2024-06-28T00:00:00Z",
+        "produtos": [
+            {
+                "id": 34,
+                "quantidade": 4,
+                "subtotal": 401.86
+            }
+        ],
+        "servicos": [
+            {
+                "id": 20,
+                "quantidade": 4,
+                "subtotal": 395.22
+            }
+        ],
+        "totalGeral": 797.08
+    },
+    {
+        "id": 24,
+        "clienteId": 33,
+        "dataEvento": "2024-07-18T00:00:00Z",
+        "produtos": [
+            {
+                "id": 6,
+                "quantidade": 3,
+                "subtotal": 125.93
+            },
+            {
+                "id": 2,
+                "quantidade": 3,
+                "subtotal": 172.15
+            },
+            {
+                "id": 5,
+                "quantidade": 2,
+                "subtotal": 127.44
+            }
+        ],
+        "servicos": [
+            {
+                "id": 8,
+                "quantidade": 1,
+                "subtotal": 937.69
+            },
+            {
+                "id": 22,
+                "quantidade": 3,
+                "subtotal": 226.78
+            },
+            {
+                "id": 16,
+                "quantidade": 3,
+                "subtotal": 169.17
+            }
+        ],
+        "totalGeral": 1759.16
+    },
+    {
+        "id": 25,
+        "clienteId": 11,
+        "dataEvento": "2024-06-27T00:00:00Z",
+        "produtos": [
+            {
+                "id": 21,
+                "quantidade": 5,
+                "subtotal": 174.4
+            },
+            {
+                "id": 34,
+                "quantidade": 4,
+                "subtotal": 162.97
+            },
+            {
+                "id": 34,
+                "quantidade": 3,
+                "subtotal": 240.48
+            },
+            {
+                "id": 1,
+                "quantidade": 2,
+                "subtotal": 162.51
+            }
+        ],
+        "servicos": [
+            {
+                "id": 5,
+                "quantidade": 5,
+                "subtotal": 255.12
+            },
+            {
+                "id": 31,
+                "quantidade": 4,
+                "subtotal": 252.85
+            }
+        ],
+        "totalGeral": 1248.33
+    },
+    {
+        "id": 26,
+        "clienteId": 13,
+        "dataEvento": "2024-06-19T00:00:00Z",
+        "produtos": [
+            {
+                "id": 1,
+                "quantidade": 2,
+                "subtotal": 231.76
+            },
+            {
+                "id": 40,
+                "quantidade": 3,
+                "subtotal": 275.0
+            },
+            {
+                "id": 33,
+                "quantidade": 3,
+                "subtotal": 433.03
+            },
+            {
+                "id": 16,
+                "quantidade": 4,
+                "subtotal": 248.62
+            },
+            {
+                "id": 9,
+                "quantidade": 4,
+                "subtotal": 353.59
+            }
+        ],
+        "servicos": [
+            {
+                "id": 31,
+                "quantidade": 3,
+                "subtotal": 881.24
+            }
+        ],
+        "totalGeral": 2423.24
+    },
+    {
+        "id": 27,
+        "clienteId": 43,
+        "dataEvento": "2024-11-20T00:00:00Z",
+        "produtos": [
+            {
+                "id": 20,
+                "quantidade": 4,
+                "subtotal": 68.46
+            }
+        ],
+        "servicos": [
+            {
+                "id": 46,
+                "quantidade": 5,
+                "subtotal": 762.27
+            },
+            {
+                "id": 12,
+                "quantidade": 1,
+                "subtotal": 570.15
+            }
+        ],
+        "totalGeral": 1400.88
+    },
+    {
+        "id": 28,
+        "clienteId": 6,
+        "dataEvento": "2024-12-29T00:00:00Z",
+        "produtos": [
+            {
+                "id": 27,
+                "quantidade": 5,
+                "subtotal": 21.22
+            },
+            {
+                "id": 23,
+                "quantidade": 5,
+                "subtotal": 20.36
+            },
+            {
+                "id": 11,
+                "quantidade": 4,
+                "subtotal": 143.65
+            }
+        ],
+        "servicos": [
+            {
+                "id": 28,
+                "quantidade": 5,
+                "subtotal": 732.33
+            }
+        ],
+        "totalGeral": 917.56
+    },
+    {
+        "id": 29,
+        "clienteId": 38,
+        "dataEvento": "2024-01-08T00:00:00Z",
+        "produtos": [
+            {
+                "id": 30,
+                "quantidade": 3,
+                "subtotal": 285.41
+            }
+        ],
+        "servicos": [
+            {
+                "id": 17,
+                "quantidade": 5,
+                "subtotal": 478.46
+            },
+            {
+                "id": 40,
+                "quantidade": 4,
+                "subtotal": 136.63
+            },
+            {
+                "id": 17,
+                "quantidade": 2,
+                "subtotal": 232.11
+            }
+        ],
+        "totalGeral": 1132.61
+    },
+    {
+        "id": 30,
+        "clienteId": 18,
+        "dataEvento": "2024-03-30T00:00:00Z",
+        "produtos": [
+            {
+                "id": 14,
+                "quantidade": 5,
+                "subtotal": 312.48
+            },
+            {
+                "id": 47,
+                "quantidade": 3,
+                "subtotal": 400.88
+            },
+            {
+                "id": 37,
+                "quantidade": 3,
+                "subtotal": 390.86
+            },
+            {
+                "id": 34,
+                "quantidade": 4,
+                "subtotal": 451.72
+            }
+        ],
+        "servicos": [
+            {
+                "id": 18,
+                "quantidade": 1,
+                "subtotal": 956.01
+            },
+            {
+                "id": 4,
+                "quantidade": 5,
+                "subtotal": 942.75
+            },
+            {
+                "id": 29,
+                "quantidade": 3,
+                "subtotal": 561.16
+            }
+        ],
+        "totalGeral": 4015.86
+    },
+    {
+        "id": 31,
+        "clienteId": 25,
+        "dataEvento": "2024-10-20T00:00:00Z",
+        "produtos": [
+            {
+                "id": 17,
+                "quantidade": 2,
+                "subtotal": 383.88
+            },
+            {
+                "id": 8,
+                "quantidade": 5,
+                "subtotal": 308.1
+            },
+            {
+                "id": 3,
+                "quantidade": 3,
+                "subtotal": 51.07
+            },
+            {
+                "id": 25,
+                "quantidade": 2,
+                "subtotal": 423.24
+            }
+        ],
+        "servicos": [
+            {
+                "id": 12,
+                "quantidade": 2,
+                "subtotal": 413.62
+            }
+        ],
+        "totalGeral": 1579.91
+    },
+    {
+        "id": 32,
+        "clienteId": 13,
+        "dataEvento": "2024-03-16T00:00:00Z",
+        "produtos": [
+            {
+                "id": 22,
+                "quantidade": 2,
+                "subtotal": 363.64
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 363.64
+    },
+    {
+        "id": 33,
+        "clienteId": 12,
+        "dataEvento": "2024-03-30T00:00:00Z",
+        "produtos": [
+            {
+                "id": 3,
+                "quantidade": 3,
+                "subtotal": 185.14
+            },
+            {
+                "id": 32,
+                "quantidade": 4,
+                "subtotal": 134.6
+            },
+            {
+                "id": 12,
+                "quantidade": 4,
+                "subtotal": 458.13
+            }
+        ],
+        "servicos": [
+            {
+                "id": 15,
+                "quantidade": 5,
+                "subtotal": 358.74
+            },
+            {
+                "id": 49,
+                "quantidade": 5,
+                "subtotal": 702.27
+            },
+            {
+                "id": 26,
+                "quantidade": 5,
+                "subtotal": 834.58
+            }
+        ],
+        "totalGeral": 2673.46
+    },
+    {
+        "id": 34,
+        "clienteId": 17,
+        "dataEvento": "2024-07-29T00:00:00Z",
+        "produtos": [
+            {
+                "id": 13,
+                "quantidade": 3,
+                "subtotal": 213.28
+            }
+        ],
+        "servicos": [
+            {
+                "id": 22,
+                "quantidade": 5,
+                "subtotal": 594.63
+            }
+        ],
+        "totalGeral": 807.91
+    },
+    {
+        "id": 35,
+        "clienteId": 2,
+        "dataEvento": "2024-08-23T00:00:00Z",
+        "produtos": [
+            {
+                "id": 23,
+                "quantidade": 4,
+                "subtotal": 355.68
+            },
+            {
+                "id": 25,
+                "quantidade": 4,
+                "subtotal": 115.93
+            },
+            {
+                "id": 38,
+                "quantidade": 1,
+                "subtotal": 13.01
+            },
+            {
+                "id": 24,
+                "quantidade": 5,
+                "subtotal": 310.5
+            },
+            {
+                "id": 44,
+                "quantidade": 5,
+                "subtotal": 27.45
+            }
+        ],
+        "servicos": [
+            {
+                "id": 39,
+                "quantidade": 1,
+                "subtotal": 236.38
+            }
+        ],
+        "totalGeral": 1058.95
+    },
+    {
+        "id": 36,
+        "clienteId": 49,
+        "dataEvento": "2024-11-27T00:00:00Z",
+        "produtos": [
+            {
+                "id": 50,
+                "quantidade": 3,
+                "subtotal": 458.02
+            },
+            {
+                "id": 16,
+                "quantidade": 3,
+                "subtotal": 377.66
+            },
+            {
+                "id": 7,
+                "quantidade": 3,
+                "subtotal": 171.2
+            }
+        ],
+        "servicos": [
+            {
+                "id": 25,
+                "quantidade": 5,
+                "subtotal": 954.83
+            },
+            {
+                "id": 1,
+                "quantidade": 1,
+                "subtotal": 302.93
+            }
+        ],
+        "totalGeral": 2264.64
+    },
+    {
+        "id": 37,
+        "clienteId": 19,
+        "dataEvento": "2024-07-26T00:00:00Z",
+        "produtos": [
+            {
+                "id": 1,
+                "quantidade": 5,
+                "subtotal": 198.76
+            },
+            {
+                "id": 11,
+                "quantidade": 3,
+                "subtotal": 362.96
+            },
+            {
+                "id": 18,
+                "quantidade": 1,
+                "subtotal": 254.18
+            },
+            {
+                "id": 45,
+                "quantidade": 4,
+                "subtotal": 120.04
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 935.94
+    },
+    {
+        "id": 38,
+        "clienteId": 38,
+        "dataEvento": "2024-09-29T00:00:00Z",
+        "produtos": [
+            {
+                "id": 10,
+                "quantidade": 5,
+                "subtotal": 444.18
+            },
+            {
+                "id": 1,
+                "quantidade": 4,
+                "subtotal": 240.36
+            }
+        ],
+        "servicos": [
+            {
+                "id": 7,
+                "quantidade": 3,
+                "subtotal": 92.59
+            }
+        ],
+        "totalGeral": 777.13
+    },
+    {
+        "id": 39,
+        "clienteId": 18,
+        "dataEvento": "2024-03-12T00:00:00Z",
+        "produtos": [
+            {
+                "id": 17,
+                "quantidade": 1,
+                "subtotal": 451.44
+            },
+            {
+                "id": 20,
+                "quantidade": 1,
+                "subtotal": 328.15
+            }
+        ],
+        "servicos": [
+            {
+                "id": 26,
+                "quantidade": 2,
+                "subtotal": 216.31
+            },
+            {
+                "id": 10,
+                "quantidade": 1,
+                "subtotal": 272.83
+            }
+        ],
+        "totalGeral": 1268.73
+    },
+    {
+        "id": 40,
+        "clienteId": 8,
+        "dataEvento": "2024-06-29T00:00:00Z",
+        "produtos": [
+            {
+                "id": 24,
+                "quantidade": 2,
+                "subtotal": 51.81
+            },
+            {
+                "id": 37,
+                "quantidade": 2,
+                "subtotal": 166.29
+            },
+            {
+                "id": 49,
+                "quantidade": 4,
+                "subtotal": 182.88
+            },
+            {
+                "id": 38,
+                "quantidade": 3,
+                "subtotal": 267.2
+            }
+        ],
+        "servicos": [
+            {
+                "id": 9,
+                "quantidade": 2,
+                "subtotal": 424.54
+            },
+            {
+                "id": 41,
+                "quantidade": 4,
+                "subtotal": 632.84
+            }
+        ],
+        "totalGeral": 1725.56
+    },
+    {
+        "id": 41,
+        "clienteId": 39,
+        "dataEvento": "2024-10-04T00:00:00Z",
+        "produtos": [
+            {
+                "id": 50,
+                "quantidade": 2,
+                "subtotal": 40.94
+            },
+            {
+                "id": 4,
+                "quantidade": 4,
+                "subtotal": 31.21
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 72.15
+    },
+    {
+        "id": 42,
+        "clienteId": 17,
+        "dataEvento": "2024-05-10T00:00:00Z",
+        "produtos": [
+            {
+                "id": 12,
+                "quantidade": 5,
+                "subtotal": 227.28
+            },
+            {
+                "id": 35,
+                "quantidade": 3,
+                "subtotal": 331.75
+            },
+            {
+                "id": 28,
+                "quantidade": 3,
+                "subtotal": 471.63
+            }
+        ],
+        "servicos": [],
+        "totalGeral": 1030.66
+    },
+    {
+        "id": 43,
+        "clienteId": 23,
+        "dataEvento": "2024-02-25T00:00:00Z",
+        "produtos": [
+            {
+                "id": 30,
+                "quantidade": 1,
+                "subtotal": 361.56
+            }
+        ],
+        "servicos": [
+            {
+                "id": 24,
+                "quantidade": 5,
+                "subtotal": 527.85
+            },
+            {
+                "id": 20,
+                "quantidade": 5,
+                "subtotal": 576.92
+            }
+        ],
+        "totalGeral": 1466.33
+    },
+    {
+        "id": 44,
+        "clienteId": 40,
+        "dataEvento": "2024-04-29T00:00:00Z",
+        "produtos": [
+            {
+                "id": 49,
+                "quantidade": 1,
+                "subtotal": 298.09
+            },
+            {
+                "id": 36,
+                "quantidade": 1,
+                "subtotal": 44.94
+            },
+            {
+                "id": 40,
+                "quantidade": 3,
+                "subtotal": 29.34
+            },
+            {
+                "id": 27,
+                "quantidade": 2,
+                "subtotal": 379.35
+            }
+        ],
+        "servicos": [
+            {
+                "id": 26,
+                "quantidade": 5,
+                "subtotal": 871.42
+            }
+        ],
+        "totalGeral": 1623.14
+    },
+    {
+        "id": 45,
+        "clienteId": 10,
+        "dataEvento": "2024-04-23T00:00:00Z",
+        "produtos": [
+            {
+                "id": 32,
+                "quantidade": 5,
+                "subtotal": 310.68
+            },
+            {
+                "id": 40,
+                "quantidade": 5,
+                "subtotal": 209.59
+            }
+        ],
+        "servicos": [
+            {
+                "id": 36,
+                "quantidade": 3,
+                "subtotal": 872.18
+            },
+            {
+                "id": 18,
+                "quantidade": 2,
+                "subtotal": 204.09
+            },
+            {
+                "id": 17,
+                "quantidade": 4,
+                "subtotal": 886.07
+            }
+        ],
+        "totalGeral": 2482.61
+    },
+    {
+        "id": 46,
+        "clienteId": 29,
+        "dataEvento": "2024-03-18T00:00:00Z",
+        "produtos": [
+            {
+                "id": 27,
+                "quantidade": 2,
+                "subtotal": 410.06
+            }
+        ],
+        "servicos": [
+            {
+                "id": 41,
+                "quantidade": 5,
+                "subtotal": 618.83
+            }
+        ],
+        "totalGeral": 1028.89
+    },
+    {
+        "id": 47,
+        "clienteId": 22,
+        "dataEvento": "2024-03-30T00:00:00Z",
+        "produtos": [
+            {
+                "id": 20,
+                "quantidade": 3,
+                "subtotal": 97.04
+            }
+        ],
+        "servicos": [
+            {
+                "id": 40,
+                "quantidade": 5,
+                "subtotal": 729.0
+            },
+            {
+                "id": 40,
+                "quantidade": 3,
+                "subtotal": 138.49
+            },
+            {
+                "id": 8,
+                "quantidade": 4,
+                "subtotal": 927.58
+            }
+        ],
+        "totalGeral": 1892.11
+    },
+    {
+        "id": 48,
+        "clienteId": 19,
+        "dataEvento": "2024-08-31T00:00:00Z",
+        "produtos": [
+            {
+                "id": 37,
+                "quantidade": 4,
+                "subtotal": 276.87
+            }
+        ],
+        "servicos": [
+            {
+                "id": 40,
+                "quantidade": 1,
+                "subtotal": 655.08
+            }
+        ],
+        "totalGeral": 931.95
+    },
+    {
+        "id": 49,
+        "clienteId": 23,
+        "dataEvento": "2024-02-13T00:00:00Z",
+        "produtos": [
+            {
+                "id": 31,
+                "quantidade": 2,
+                "subtotal": 198.34
+            },
+            {
+                "id": 36,
+                "quantidade": 3,
+                "subtotal": 77.44
+            },
+            {
+                "id": 8,
+                "quantidade": 5,
+                "subtotal": 355.24
+            },
+            {
+                "id": 2,
+                "quantidade": 1,
+                "subtotal": 272.67
+            }
+        ],
+        "servicos": [
+            {
+                "id": 8,
+                "quantidade": 1,
+                "subtotal": 832.52
+            },
+            {
+                "id": 32,
+                "quantidade": 3,
+                "subtotal": 969.55
+            },
+            {
+                "id": 47,
+                "quantidade": 1,
+                "subtotal": 83.92
+            }
+        ],
+        "totalGeral": 2789.68
+    },
+    {
+        "id": 50,
+        "clienteId": 30,
+        "dataEvento": "2024-05-24T00:00:00Z",
+        "produtos": [
+            {
+                "id": 2,
+                "quantidade": 3,
+                "subtotal": 409.24
+            },
+            {
+                "id": 11,
+                "quantidade": 3,
+                "subtotal": 348.54
+            },
+            {
+                "id": 47,
+                "quantidade": 5,
+                "subtotal": 400.11
+            },
+            {
+                "id": 7,
+                "quantidade": 1,
+                "subtotal": 210.02
+            },
+            {
+                "id": 25,
+                "quantidade": 2,
+                "subtotal": 137.37
+            }
+        ],
+        "servicos": [
+            {
+                "id": 19,
+                "quantidade": 5,
+                "subtotal": 865.29
+            },
+            {
+                "id": 8,
+                "quantidade": 1,
+                "subtotal": 222.97
+            }
+        ],
+        "totalGeral": 2593.54
+    }
+]
